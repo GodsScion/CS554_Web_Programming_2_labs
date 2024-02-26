@@ -13,6 +13,12 @@ https://github.com/GodsScion/CS554_Web_Programming_2_labs/assets/100998531/bb152
 - HTML
 - CSS
 
+# Notes
+1. Start redis servers
+2. Open terminal in server path and type 'npm i' then 'npm start'
+3. Open terminal in client path and type 'npm i' then 'npm start'
+
+
 # Reach me at
 - **LinkedIn:** https://www.linkedin.com/in/saivigneshgolla/
 - **Email:** saivigneshgolla@outlook.com
