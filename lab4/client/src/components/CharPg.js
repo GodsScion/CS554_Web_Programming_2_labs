@@ -69,7 +69,7 @@ const ChCard = () => {
     }
     if (chObj && chObj.stories.available > 0){
         storiesList = 
-        <ul class="uld dropdown" aria-label="submenu">
+        <ul className="uld dropdown" aria-label="submenu">
             {chObj.stories.items.map((x) => {return storiesListFunc(x)})}
         </ul>
     }
@@ -85,7 +85,7 @@ const ChCard = () => {
     }
     if (chObj && chObj.series.available > 0){
         seriesList = 
-        <ul class="uld dropdown" aria-label="submenu">
+        <ul className="uld dropdown" aria-label="submenu">
             {chObj.series.items.map((x) => {return seriesListFunc(x)})}
         </ul>
     }
@@ -146,7 +146,7 @@ const ChCard = () => {
                     <nav className="navd" role="navigation">
                         <ul className="uld">
                             <li className="lid"><h3>Other Urls</h3>
-                                <ul class="uld dropdown" aria-label="submenu">
+                                <ul className="uld dropdown" aria-label="submenu">
                                     {urls}
                                 </ul>
                             </li>
