@@ -13,3 +13,4 @@ https://github.com/GodsScion/CS554_Web_Programming_2_labs/assets/100998531/bb152
 - **LinkedIn:** https://www.linkedin.com/in/saivigneshgolla/
 - **Email:** saivigneshgolla@outlook.com
 - **GitHub:** https://github.com/GodsScion
+- **Discord:** godsscion
